@@ -69,4 +69,4 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 
 ## Final
 
-Our final is scheduled for . If you would like to block off specific hours, our scheduled time is 4 PM to 7 PM
+Our final is scheduled for Tuesday, June 7. If you would like to block off specific hours, our scheduled time is 7:30 PM to 10:30 PM
