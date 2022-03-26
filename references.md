@@ -6,13 +6,13 @@ layout: single
 classes: wide
 ---
 
-I will update these references as the course progresses with additional resources that you might find helpful. Please let me know if there's anything you'd like me to include!
+I will update these references as the course progresses. Please let me know if there's anything you'd like me to include!
+
 
 ### Textbooks
 
-I do not require that you have a physical textbook for this class, however there are some that we will use extensively. Each are available online from the UCSC library.
+I will not require you to purchase any textbook for this class. However, I will be drawing from several of them throughout the quarter.
 
-* The main book we will use is [The Art of Multiprocessor Programming](https://ucsc.primo.exlibrisgroup.com/permalink/01CDL_SCR_INST/15r5l0d/alma9914804965806531).
-* For those of you who have not taken CSE 120, you may find [Computer Architecture: A Quantitative Approach](https://ucsc.primo.exlibrisgroup.com/permalink/01CDL_SCR_INST/15r5l0d/alma9981331999103126) helpful. Chapter 2 deals with the memory hierarchy and Chapter 3 deals with hardware for instruction level parallelism.
-* For more information on GPU computing, I recommend [CUDA by Example](https://ucsc.primo.exlibrisgroup.com/permalink/01CDL_SCR_INST/ojisf2/cdi_askewsholts_vlebooks_9780132180139).
+Our main text book is [Engineering: A Compiler](https://www.amazon.com/Engineering-Compiler-Keith-Cooper/dp/012088478X) or EAC. The university library has online copies of [EAC available](https://ucsc.primo.exlibrisgroup.com/permalink/01CDL_SCR_INST/1jiojor/alma9914646210706531).
 
+I will also draw from the classic [Dragon Book](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811#ace-g6796040015). There is no library online source available, but there may be other ways to obtain electronic copies of this book.
