@@ -9,65 +9,63 @@ classes: wide
 
 ## Class Description
 
-Welcome to CSE 113: Parallel and Concurrent Programming! In this class, we will explore many aspects of parallel computing, from instruction-level parallelism in seemingly sequential programs to thread-level parallel programs that can efficiently execute across the many cores of today's multiprocessors. We will learn how to write programs that execute efficiently and correctly in concurrent environments. This class will give you the necessary foundation to solve problems using concurrency: a powerful skillset as today's computers are becoming more and more parallel.
+Welcome to CSE 110A: Fundamentals of Compiler Design! In this class we will explore one of the most import tools in computer science: the compiler. In particular, we will explore how compiler techniques transform high level languages into low-level languages, i.e. closer to the instructions that processors can actually execute. We will study how compilers can automatically make code more efficient and safe to execute. When you leave this class you should be comfortable with: specifying programming language grammars, how to efficiently parse these languages, and how to convert complex high-level code into equivalent (and hopefully more performant) low-level code. 
+
+Given the influx in domain-specific languages, and the explosion of architectural diversity occuring in computing today, these are valuable skills.
 
 ## Teaching Staff
 
-We have a great teaching staff this quarter! All of them have lots of experience in parallel programming. This is Reese's second time TA'ing the class. Tim and Sanya took the class last year. Please get to know them and take advantage of the office hours and mentoring sessions they provide
+We have a great teaching staff this quarter! All of them have lots of experience in compilers. Yanwen is 2nd year PhD student who did his undergrad at UCSC; Arrian and Neal took this class last quarter. Please get to know them and take advantage of the office hours and mentoring sessions they provide
 
-- *Grad TA*: Reese Levine
-- *Undergrad Mentor/Grader*: Tianhao Guo (Tim)
-- *Undergrad Mentor/Grader*: Sanya Srivastava 
-
+- *Grad TA*: Yanwen Xu
+- *Undergrad Mentor/Grader*: Arrian Chi
+- *Undergrad Mentor/Grader*: Neal Chokshi
 
 ## Necessary Background
 
-The prerequisites for this class are CSE 12 (systems), CSE 101 (data-structures and algorithms), and recommended CSE 120 (architecture). You will need some foundation in all of those topics to succeed in this class. You will need to know data-structures and algorithms as we will extend some of these sequential concepts to their natural parallel counterparts. You will need some systems background as we will discussing many aspects of the hardware/software interface. Parallel programming is most efficiently executed on parallel hardware: Thus, it is helpful to understand shared  hardware resources (e.g. the memory hierarchy) of the underlying architectures. 
+The prerequisites for this class are CSE 12 (systems) and CSE 101 (data-structures and algorithms). You will need some foundation in all of those topics to succeed in this class. You will need to know data-structures as we will use lots of trees and traversals in parsing. You will need some systems background as we will be discussing how to transform a high-level programming language into a low-level language (like assembly). CSE 103 will also be helpful as we will be using regular expressions and context-free grammars.
 
 Because this is an upper division class, I do expect a general CS foundation. For the homeworks, I will assume that you are:
 
 - comfortable using a linux command-line
 - programming in a high-level language (e.g. Python)
 - programming in a low-level language (e.g. C)
-- a high-level understanding of computer architecture
 
 ## Class Modules
 
 This class will be split into 5 modules, each of which are roughly two weeks:
 
-* **Module 1: Introduction, Background and ILP** This module will introduce the class and provide a programming, compiler, and architectural refresher. We will discuss how to write parallel code in C++ and show how modern hardware exploits parallelism within a sequential thread (ILP).
+* **Module 1: Lexing** 
 
-* **Module 2: Mutual Exclusion** This module will discsuss the fundamental problem of mutual exclusion. We will discuss the theory behind mutual exclusion, how it is implemented in practice, and specialized mutual exclusion implementations. 
+* **Module 2: Parsing** 
 
-* **Module 3: Concurrent Data Structures** This module will discuss concurrent objects and how to reason about them. We will discuss several implementations and discuss how it can be used in load balancing.
+* **Module 3: IRs** 
 
-* **Module 4: Reasoning about Concurrency** This module will discuss how to reason about concurrent programs, including memory consistency and fairness. 
+* **Module 4: Optimizations**  
  
-* **Module 5: Heterogenous Parallelism (GPGPU)** This module will discuss heterogenous programming, with a focus on GPGPU programming. We will discuss the SIMT programming model, hierarchical execution, and different architectural considerations when optimizing programs.
+* **Module 5: Backends** 
 
 ## Class Format
 
-Each class is 65 minutes. I will plan to be available (either in Zoom or in person)
-room open 10 minutes before class starts and 10 minutes
-afterwards. 
+Each class is 65 minutes. I plan to stay after class for roughly 10 minutes to answer questions
 
-For the remote lectures, I will enable global chat. I encourage you to use this to ask questions or comments throughout the lecture.
+_Non-protected materials_ will be hosted on this website. This includes the schedule, lecture slides, and references, etc.
 
-_Non-protected materials_ will be hosted on this website. This includes the schedule, lectures, and references, etc.
-
-_Protected materials_ will be hosted on a Canvas website that you will need your university credentials to access. These materials include homeworks, zoom links, lecture recordings, tests, grades, etc.
+_Protected materials_ will be hosted on a Canvas website that you will need your university credentials to access. These materials include homeworks, lecture recordings, tests, grades, etc.
 
 We plan to host a class forum, likely in Piazza. If you organize other forums outside of the class Piazza, please adhere to academic integrity.
 
-## Quiz/Attendence
+## Attendance
 
-Live discussions are a valuable part of the learning experience. I expect you to make an effort to synchronously attend this class, whether on Zoom on in-person.
+Live discussions are a valuable part of the learning experience. I expect you to make an effort to synchronously attend this class (which will hopefully be in person all quarter).
 
-Given the volatility of the format this year, i.e. between in-person and remote, I will not grade attendance for remote lectures. 
+Depending on the availability of recording equiptment, I will upload recordings of the class to canvas, but this is not a substitute for attendance. These recordings are not guaranteed (e.g. if the equiptment fails). And you will likely miss out on class discussions and may not be able to see the white board.
 
-As we return to in-person lectures, **Attendance will be 10% of your grade**. Depending on the availability of recording equiptment, I will upload recordings of the class to canvas, but this is not a substitute for attendance. This will be graded using a small quiz at the beginning of class. Please do not submit the quiz unless you are attending. If you submit a quiz without attendance, it will be considered a breach of academic integrity. 
+## Quiz
 
-You can have up to 3 absences that will not affect your grade. If you need more than that, please message the teaching staff to discuss.
+There will be a quiz for each lecture. These quizes will be assigned immediately after class and you will have until the next class starts to do them. Your answers are **not** graded, but your submission is. These are meant to test your understanding. These will account for 10% of your class grade. We reserve the right to remove points on an individual basis if we feel that there is not sufficient effort put into the quiz.
+
+You can miss up to 3 quizes without penalty.
 
 ## Accessibility
 
@@ -87,29 +85,17 @@ The sign-up sheet is meant to provide fairness; as such I will be strict about k
 
 ### TA Office Hours:
 
-Reese will hold hybrid office hours on Wednesdays from 2:30 to 4:30 PM. Zoom link will be available on Piazza, and room will be BE-153A when in person instruction resumes.
+TBD
 
 ### Mentoring Hours:
 
-Sanya will hold 1-1 tutoring hours primarily in-person (when we return). Location is TBD. 
-
-* Monday 4:00 - 5:00 PM
-* Friday 3:30 - 4:30 PM
-
-_Sanya will be asynchronous until Jan. 10. Please ask questions on Piazza and she will answer._
-
-Tim will hold 1-1 tutoring hours primarily remotely
-
-* Tuesday 2:00 - 3:00 PM
-* Thursday 2:00 - 3:00 PM
-
-
+TBD
 
 ## Asynchronous Communication
 
-For any questions outside of office hours: Please post to the class forum (Piazza). If these are sensitive questions, you can email them directly to the teaching staff. If it is more general, make it visible to the rest of class. If it isn't clear if it is a sensitive question or not, please start out by making the question to the teaching staff and we can advise on making it public or not. Feel free to answer questions that your classmates post or freely participate in discussions there!
+For any questions outside of office hours: Please post to the class forum (Piazza). If these are sensitive questions, please make the post private. If it is more general, make it visible to the rest of class. If it isn't clear if it is a sensitive question or not, please start out by making the question to the teaching staff and we can advise on making it public or not. Feel free to answer questions that your classmates post or freely participate in discussions there!
 
-Other questions can be sent through canvas if you'd like. If your question appears to be more appropriate for the discussion forum, we may kindly ask you to post your question there. Please do not email us individually. Those emails get buried, or they might not be seen by the right member of the teaching staff.
+Please do not email us individually. Those emails get buried, or they might not be seen by the right member of the teaching staff. Any re-grading requests must occur through Piazza.
 
 We will strive to reply to homework questions and discussions within 24 hours. Do not plan on, or expect help, outside of regular business hours (after 5 pm or weekends)
 
@@ -117,11 +103,9 @@ We will strive to reply to homework questions and discussions within 24 hours. D
 
 There will be one assignment per module, for a total of 5 homeworks.
 
-We will host a docker container that includes the necessary environment (compilers, libraries) for the homeworks. You are free to run this docker from your local machine or from a unviversity machine. We will provide a list of university resources in Canvas. It is required that your homeworks execute successfully inside the docker. The homeworks will also specify a submission format (e.g. a directory structure). Please strictly adhere to this, as it helps with grading.
+We will host a docker container that includes the necessary environment (compilers, libraries) for the homeworks. You are free to run this docker from your local machine. It is required that your homeworks execute successfully inside the docker. The homeworks will also specify a submission format (e.g. a directory structure). Please strictly adhere to this, as it helps with grading.
 
-Homeworks are due at midnight on their due date, but do not plan on help after 5 pm (as mentioned above). Late homeworks are marked down 10% per day for up to 3 days, at which point they will not be accepted.
-
-Homework will be submitted on canvas.
+Homeworks are due at midnight on their due date, but do not plan on help after 5 pm (as mentioned above). Homework will be submitted on canvas.
 
 ## Tests:
 
@@ -129,16 +113,18 @@ There will be two asynchronous tests in this course: a midterm and a final. The 
 
 You will get the test as pdf worksheet and have a set time to complete it. You have 1 week for the midterm, and you have 12 hours for the final. 
 
-The midterm will be given halfway through the class: assigned on Monday, Feb. 7 and due on Feb. 14. 
-The final will be given on Thursday, March 17.
+The midterm will be given halfway through the class: TODO
+The final will be given on TODO
 
 I will design the tests to take ~120 minutes. These are open note/book/internet tests. However, it is not open friend or question. That is, while the test is active, you are not allowed to discuss the test with another person (either in the class or online). For example, you *can* google concepts that are on the test. You *cannot* post a test question to stackoverflow.
 
 _a note on timing_: my tests are designed to take 120 minutes *if* they were given in-person. In practice, students take much longer on take-home tests because you can spend time validating answers and less time studying before hand. Because of this, many students spend much longer on take-home tests. Please consider this when budgeting time.
 
+_a note on academic integrity_: I like giving take home tests. I feel like it is more representative of the types of challenges you will face in your careers. However, if we find any cheating, we will move to in-person, timed, proctored exams. Please do not cheat.
+
 ## Late Policy:
 
-Assignments are docked 10% per day late up to 3 days. After that they will no longer be accepted.  
+Assignments are docked 10% per day late up to 3 days. After that they will no longer be accepted. No assignment will be accepted after the day of our final. This is unversity policy, not mine.
 
 The midterm and final will not be accepted late.
 
