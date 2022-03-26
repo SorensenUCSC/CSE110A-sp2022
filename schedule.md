@@ -7,7 +7,7 @@ _I will strive to get slides uploaded before lecture_
 
 _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC), see the references [page](https://sorensenucsc.github.io/CSE110A-sp2022/references.html)_
 
-### Module 1: TODO
+### Module 1: Lexing
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
@@ -18,7 +18,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Wed, April 6     |   | | 
 | Fri, April 8    |  | | 
 
-### Module 2: TODO
+### Module 2: Parsing
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
@@ -30,7 +30,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Fri, April 22     |  | |
 
 
-### Module 3: TODO
+### Module 3: Intermediate representations
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
@@ -41,7 +41,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Wed, May 4     |  | |
 | Fri, May 6     |  | |
 
-### Module 4: TODO
+### Module 4: Optimizations
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
@@ -54,7 +54,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 
 
 
-### Module 5: TODO
+### Module 5: Backends
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
