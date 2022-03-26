@@ -1,15 +1,15 @@
-title: "CSE113, Winter 2022"
-description: "Parallel and Concurrent Programming"
+title: "CSE 110A, Spring 2022"
+description: "Fundamentals of Compiler Design"
 
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "default", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "plum" # "air", "aqua", "contrast", "default", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 paginate: 5 # number of posts to show
 paginate_path: /page:num/
 
-repository: "SorensenUCSC/CSE113-wi2022"
+repository: "SorensenUCSC/CSE110A-sp2022"
 
-baseurl: "/CSE113-wi2022"
+baseurl: "/CSE110A-sp2022"
 
 plugins:
   - jekyll-feed
