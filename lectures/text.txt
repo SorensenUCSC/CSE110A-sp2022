@@ -1,1 +1,1 @@
-Just a text file to create the lectures folder. (hacky I know)
+Just a text file to create the lectures folder. (hacky I know) (even more hacky to redeploy)
