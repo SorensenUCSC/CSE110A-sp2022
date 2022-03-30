@@ -8,7 +8,7 @@ layout: single
 
 - **Instructor:** [Tyler Sorensen](https://users.soe.ucsc.edu/~tsorensen/)
 - **Time:** Mondays, Wednesdays and Fridays: 4:00 - 5:05 pm
-- **Location:** Porter 144
+- **Location:** Soc Sci 2 - 71 (new classroom!)
 
 Hello and welcome to the fundamentals of compiler design class! 
 
