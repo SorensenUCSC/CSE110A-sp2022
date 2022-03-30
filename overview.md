@@ -85,11 +85,19 @@ The sign-up sheet is meant to provide fairness; as such I will be strict about k
 
 ### TA Office Hours:
 
-TBD
+Mondays from 1 PM to 2 PM
+
+Fridays from 1:30 PM to 2:30 PM
+
+Yanwen's office hours will be hybrid and he will use a similar sign-up sheet.
+
+Room TBD
 
 ### Mentoring Hours:
 
-TBD
+Arrian is Tuesday from 1 PM to 3 PM, virtual.
+
+Neal is Wednesday and Friday 1:30 PM - 2:30 PM. He will share a room with Yanwen on Friday's and be virtual on Wednesday.
 
 ## Asynchronous Communication
 
