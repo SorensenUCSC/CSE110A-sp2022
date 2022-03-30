@@ -75,7 +75,7 @@ UC Santa Cruz is committed to creating an academic environment that supports its
 
 ### Instructor Office Hours:
 
-I will provide 2 office hours per week: Thursdays fro 3 - 5 PM. 
+I will provide 2 office hours per week: Thursdays from 3 - 5 PM. 
 
 My office hours can be remote or in-person. My physical office is E2-233 (no nameplate yet, but I'm working on it!). I will provide a Zoom link on canvas. I manage the office hours through a Google doc sign-up sheet. I will reset the list around noon on Thursday and notify with a canvas announcement. Any name on the list before then will be erased.
 
