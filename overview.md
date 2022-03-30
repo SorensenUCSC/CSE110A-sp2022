@@ -97,7 +97,7 @@ Room TBD
 
 Arrian is Tuesday from 1 PM to 3 PM, virtual.
 
-Neal is Wednesday and Friday 1:30 PM - 2:30 PM. 
+Neal is Wednesday 1:30 PM - 2:30 PM, virtual; and Friday 2 PM to 3 PM sharing a room with Yanwen.
 
 ## Asynchronous Communication
 
