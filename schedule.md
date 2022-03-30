@@ -12,7 +12,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
 | Mon, March 28    | Welcome!  |  [slides](lectures/CSE110A_sp2022.pdf)   | [Overview page](https://sorensenucsc.github.io/CSE110A-sp2022/overview.html)
-| Wed, March 30    |  |    | 
+| Wed, March 30    | Introduction to Compilers |  slides [pdf](lectures/CSE110AMarch30_sp2022.pdf) [pptx](lectures/CSE110AMarch30_sp2022.pptx)  | EAC Chapter 1
 | Fri, April 1     |   |   |
 | Mon, April 4     |  |   | 
 | Wed, April 6     |   | | 
