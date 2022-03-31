@@ -85,13 +85,11 @@ The sign-up sheet is meant to provide fairness; as such I will be strict about k
 
 ### TA Office Hours:
 
-Mondays from 1 PM to 2 PM
+Mondays from 1 PM to 2 PM (Virtual)
 
-Fridays from 2 PM to 3 PM
+Fridays from 2 PM to 3 PM (Room BE-151)
 
 Yanwen's office hours will be hybrid and he will use a similar sign-up sheet.
-
-Room TBD
 
 ### Mentoring Hours:
 
