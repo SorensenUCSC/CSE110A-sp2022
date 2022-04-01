@@ -1,3 +1,9 @@
+---
+title: "Homework Setup"
+layout: single
+classes: wide
+---
+
 # Homework Setup
 
 This guide walks you through developing and running your homeworks using a Docker container running Ubuntu.
