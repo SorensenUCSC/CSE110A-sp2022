@@ -31,14 +31,14 @@ Homework skeletons will be available to download using `wget`. Download the home
 
 When you’re ready to start the container make sure you’re in the top level homework directory (for example, for homework 1 your current directory should be “homework1_packet”, or wherever you extracted the code to). Then, run the following command depends on your system:
 
-### On Linux
+### On Linux/macOS
 ```
 docker run -v "$(pwd)":/assignments -it yxu83/cse110a:latest bash
 ```
 
 ### On Windows 
 
-with Powershell:
+with Powershell (should work on both [Powershell 7](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.2) and Windows Powershell):
 
 ```
 docker run -v ${pwd}:/assignments -it yxu83/cse110a:latest bash
