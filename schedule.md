@@ -14,7 +14,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Mon, March 28    | Welcome!  |  [slides](lectures/CSE110A_sp2022.pdf)   | [Overview page](https://sorensenucsc.github.io/CSE110A-sp2022/overview.html)
 | Wed, March 30    | Introduction to Compilers |  slides [pdf](lectures/CSE110AMarch30_sp2022.pdf) [pptx](lectures/CSE110AMarch30_sp2022.pptx)  | EAC Chapter 1
 | Fri, April 1     | Introduction to Lexical Analysis  | slides [pdf](lectures/CSE110AApril1_sp2022.pdf) [pptx](lectures/CSE110AApril1_sp2022.pptx)   |
-| Mon, April 4     |  |   | 
+| Mon, April 4     |  Regular Expressions | slides [pdf](lectures/CSE110AApril4_sp2022.pdf) [pptx](lectures/CSE110AApril4_sp2022.pptx)  | 
 | Wed, April 6     |   | | 
 | Fri, April 8    |  | | 
 
