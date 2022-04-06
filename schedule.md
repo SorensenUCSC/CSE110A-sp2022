@@ -15,7 +15,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Wed, March 30    | Introduction to Compilers |  slides [pdf](lectures/CSE110AMarch30_sp2022.pdf) [pptx](lectures/CSE110AMarch30_sp2022.pptx)  | EAC Chapter 1
 | Fri, April 1     | Introduction to Lexical Analysis  | slides [pdf](lectures/CSE110AApril1_sp2022.pdf) [pptx](lectures/CSE110AApril1_sp2022.pptx)   |
 | Mon, April 4     |  Regular Expressions | slides [pdf](lectures/CSE110AApril4_sp2022.pdf) [pptx](lectures/CSE110AApril4_sp2022.pptx)  | 
-| Wed, April 6     |   | | 
+| Wed, April 6     |  Implementing Scanners with REs | slides [pdf](lectures/CSE110AApril6_sp2022.pdf) [pptx](lectures/CSE110AApril6_sp2022.pptx)| 
 | Fri, April 8    |  | | 
 
 ### Module 2: Parsing
