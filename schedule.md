@@ -23,7 +23,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
 | Mon, April 11     | CFGS and Derivations | slides [pdf](lectures/CSE110AApril11_sp2022.pdf) [pptx](lectures/CSE110AApril11_sp2022.pptx) | EAC Chapter 3.1
-| Wed, April 13     |    |  | 
+| Wed, April 13     |  Parse Trees and ambiguous   | slides [pdf](lectures/CSE110AApril13_sp2022.pdf) [pptx](lectures/CSE110AApril13_sp2022.pptx) | EAC Chapter 3.1
 | Fri, April 15     |   |  | 
 | Mon, April 18     |     |  | 
 | Wed, April 20     |    | | 
