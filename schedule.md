@@ -34,7 +34,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Mon, April 25      |  | |
+| Mon, April 25      | CLASS CANCELED | |
 | Wed, April 27      |  | |
 | Fri, April 29      |  | |
 | Mon, May 2     |  | |
