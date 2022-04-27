@@ -35,7 +35,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
 | Mon, April 25      | CLASS CANCELED | |
-| Wed, April 27      |  | |
+| Wed, April 27      | Intro to IRs and ASTs | slides [pdf](lectures/CSE110AApril27_sp2022.pdf) [pptx](lectures/CSE110AApril27_sp2022.pptx) |EAC Chapter 5.1
 | Fri, April 29      |  | |
 | Mon, May 2     |  | |
 | Wed, May 4     |  | |
