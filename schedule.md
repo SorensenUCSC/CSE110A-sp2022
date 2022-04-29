@@ -36,7 +36,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 |------------------|----------|--------|----------------
 | Mon, April 25      | CLASS CANCELED | |
 | Wed, April 27      | Intro to IRs and ASTs | slides [pdf](lectures/CSE110AApril27_sp2022.pdf) [pptx](lectures/CSE110AApril27_sp2022.pptx) |EAC Chapter 5.1
-| Fri, April 29      | ASTs and type checking | slides [pdf](lectures/CSE110AApril29_sp2022.pdf) [pptx](lectures/CSE110AApril29_sp2022.pptx) |
+| Fri, April 29      | ASTs and type checking | slides [pdf](lectures/CSE110AApril29_sp2022.pdf) [pptx](lectures/CSE110AApril29_sp2022.pptx) | EAC Chapter 4.2
 | Mon, May 2     |  | |
 | Wed, May 4     |  | |
 | Fri, May 6     |  | |
