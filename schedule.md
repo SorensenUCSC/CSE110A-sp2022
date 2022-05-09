@@ -40,12 +40,12 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Mon, May 2     | ASTs and type checking 2  |slides [pdf](lectures/CSE110AMay2_sp2022.pdf) [pptx](lectures/CSE110AMay2_sp2022.pptx) | EAC Chapter 4.2
 | Wed, May 4     | ASTs and type checking 3 | slides [pdf](lectures/CSE110AMay4_sp2022.pdf) [pptx](lectures/CSE110AMay4_sp2022.pptx) | EAC Chapter 5.3
 | Fri, May 6     | Converting ASTs into 3 address code |slides [pdf](lectures/CSE110AMay6_sp2022.pdf) [pptx](lectures/CSE110AMay6_sp2022.pptx) | EAC Chapter 5.3
+| Mon, May 9     | Converting statements into 3 address code |slides [pdf](lectures/CSE110AMay9_sp2022.pdf) [pptx](lectures/CSE110AMay9_sp2022.pptx) | EAC Chapter 5.3
 
 ### Module 4: Optimizations
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Mon, May 9     |  | |
 | Wed, May 11     |  | |
 | Fri, May 13     |  | |
 | Mon, May 16     |  | |
