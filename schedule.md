@@ -47,7 +47,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
 | Wed, May 11      | HW 3 overview and intro to optimizations        | slides [pdf](lectures/CSE110AMay11_sp2022.pdf) [pptx](lectures/CSE110AMay11_sp2022.pptx) | EAC Chapter 8.1
-| Fri, May 13     |  | |
+| Fri, May 13     | Optimization overview | slides [pdf](lectures/CSE110AMay13_sp2022.pdf) [pptx](lectures/CSE110AMay13_sp2022.pptx) | EAC Chapter 8.1
 | Mon, May 16     |  | |
 | Wed, May 18     |  | |
 | Fri, May 20     | | |
