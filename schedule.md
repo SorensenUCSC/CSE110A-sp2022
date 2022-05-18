@@ -49,8 +49,8 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Wed, May 11      | HW 3 overview and intro to optimizations        | slides [pdf](lectures/CSE110AMay11_sp2022.pdf) [pptx](lectures/CSE110AMay11_sp2022.pptx) | EAC Chapter 8.1
 | Fri, May 13     | Optimization overview | slides [pdf](lectures/CSE110AMay13_sp2022.pdf) [pptx](lectures/CSE110AMay13_sp2022.pptx) | EAC Chapter 8.1
 | Mon, May 16     | Basic blocks and local value numbering |  slides [pdf](lectures/CSE110AMay16_sp2022.pdf) [pptx](lectures/CSE110AMay16_sp2022.pptx) | EAC Chapter 8 (up to 8.5)
-| Wed, May 18     |  | |
-| Fri, May 20     | | |
+| Wed, May 18     | Local value numbering 2 | slides [pdf](lectures/CSE110AMay18_sp2022.pdf) [pptx](lectures/CSE110AMay18_sp2022.pptx) | EAC Chapter 8 (up to 8.6)
+| Fri, May 20     | CLASS CANCELED | |
 
 
 
