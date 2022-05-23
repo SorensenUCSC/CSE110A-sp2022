@@ -51,14 +51,13 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Mon, May 16     | Basic blocks and local value numbering |  slides [pdf](lectures/CSE110AMay16_sp2022.pdf) [pptx](lectures/CSE110AMay16_sp2022.pptx) | EAC Chapter 8 (up to 8.5)
 | Wed, May 18     | Local value numbering 2 | slides [pdf](lectures/CSE110AMay18_sp2022.pdf) [pptx](lectures/CSE110AMay18_sp2022.pptx) | EAC Chapter 8 (up to 8.6)
 | Fri, May 20     | CLASS CANCELED | |
-
+| Mon, May 23     | Loop transforms | slides [pdf](lectures/CSE110AMay23_sp2022.pdf) [pptx](lectures/CSE110AMay23_sp2022.pptx)  | EAC Chapter 7.8
 
 
 ### Module 5: Backends
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Mon, May 23     | | |
 | Wed, May 25     | | |
 | Fri, May 27     | | |
 | Wed, June 1    | | |
