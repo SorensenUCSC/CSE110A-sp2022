@@ -58,7 +58,6 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-
 | Fri, May 27     | | |
 | Wed, June 1    | | |
 | Fri, June 3    | | |
