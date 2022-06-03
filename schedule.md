@@ -55,16 +55,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Wed, May 25     | Loop transforms 2 | slides [pdf](lectures/CSE110AMay25_sp2022.pdf) [pptx](lectures/CSE110AMay25_sp2022.pptx)  | EAC Chapter 7.8
 | Fri, May 27     | Loop transforms 3| slides [pdf](lectures/CSE110AMay27_sp2022.pdf) [pptx](lectures/CSE110AMay27_sp2022.pptx)|
 | Wed, June 1     | Control Flow Graphs | slides [pdf](lectures/CSE110AJune1_sp2022.pdf) [pptx](lectures/CSE110AJune1_sp2022.pptx) | EAC Chapter 8.6.1
-
-
-### Module 5: Backends
-
-| Date             | Topic    | Slides |   Readings
-|------------------|----------|--------|----------------
-| Fri, June 3    | | |
-
-
-
+| Fri, June 3     | Live variable Analysis | slides [pdf](lectures/CSE110AJune3_sp2022.pdf) [pptx](lectures/CSE110AJune3_sp2022.pptx) | EAC Chapter 8.6.1
 
 ## Final
 
